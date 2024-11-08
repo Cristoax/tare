@@ -1,0 +1,10 @@
+C:\Users\andre\source\repos\Estructuras Multiples\Estructuras Multiples\bin\Debug\Estructuras Multiples.exe.config
+C:\Users\andre\source\repos\Estructuras Multiples\Estructuras Multiples\bin\Debug\Estructuras Multiples.exe
+C:\Users\andre\source\repos\Estructuras Multiples\Estructuras Multiples\bin\Debug\Estructuras Multiples.pdb
+C:\Users\andre\source\repos\Estructuras Multiples\Estructuras Multiples\obj\Debug\Estructuras Multiples.csproj.AssemblyReference.cache
+C:\Users\andre\source\repos\Estructuras Multiples\Estructuras Multiples\obj\Debug\Estructuras_Multiples.Form1.resources
+C:\Users\andre\source\repos\Estructuras Multiples\Estructuras Multiples\obj\Debug\Estructuras_Multiples.Properties.Resources.resources
+C:\Users\andre\source\repos\Estructuras Multiples\Estructuras Multiples\obj\Debug\Estructuras Multiples.csproj.GenerateResource.cache
+C:\Users\andre\source\repos\Estructuras Multiples\Estructuras Multiples\obj\Debug\Estructuras Multiples.csproj.CoreCompileInputs.cache
+C:\Users\andre\source\repos\Estructuras Multiples\Estructuras Multiples\obj\Debug\Estructuras Multiples.exe
+C:\Users\andre\source\repos\Estructuras Multiples\Estructuras Multiples\obj\Debug\Estructuras Multiples.pdb

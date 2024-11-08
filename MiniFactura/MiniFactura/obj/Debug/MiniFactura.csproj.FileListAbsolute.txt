@@ -1,0 +1,10 @@
+C:\Users\andre\source\repos\MiniFactura\MiniFactura\bin\Debug\MiniFactura.exe.config
+C:\Users\andre\source\repos\MiniFactura\MiniFactura\bin\Debug\MiniFactura.exe
+C:\Users\andre\source\repos\MiniFactura\MiniFactura\bin\Debug\MiniFactura.pdb
+C:\Users\andre\source\repos\MiniFactura\MiniFactura\obj\Debug\MiniFactura.csproj.AssemblyReference.cache
+C:\Users\andre\source\repos\MiniFactura\MiniFactura\obj\Debug\MiniFactura.Form1.resources
+C:\Users\andre\source\repos\MiniFactura\MiniFactura\obj\Debug\MiniFactura.Properties.Resources.resources
+C:\Users\andre\source\repos\MiniFactura\MiniFactura\obj\Debug\MiniFactura.csproj.GenerateResource.cache
+C:\Users\andre\source\repos\MiniFactura\MiniFactura\obj\Debug\MiniFactura.csproj.CoreCompileInputs.cache
+C:\Users\andre\source\repos\MiniFactura\MiniFactura\obj\Debug\MiniFactura.exe
+C:\Users\andre\source\repos\MiniFactura\MiniFactura\obj\Debug\MiniFactura.pdb
